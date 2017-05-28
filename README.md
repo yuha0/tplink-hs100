@@ -1,4 +1,3 @@
-# tplink-switch 
+# tplink-switch
 
-Simply put a http server on top of ['tplink-hs100'](https://github.com/natefox/tplink-hs100)
-
+Just make it a little bit easier to use ['tplink-hs100'](https://github.com/natefox/tplink-hs100)
